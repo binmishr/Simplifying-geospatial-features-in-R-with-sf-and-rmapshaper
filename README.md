@@ -1,0 +1,1 @@
+# Simplifying-geospatial-features-in-R-with-sf-and-rmapshaper
